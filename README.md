@@ -1,8 +1,5 @@
-# AeonLabs-PCB-Shields-RFID-NFC-RC522
-AeonLabs-PCB-Shields-RFID-NFC-RC522
-
-# AeonLabs PCB Shields AC 85V-220V to DC 5.0V
- This is a pcb design for a AC220V 1A to DC 5V0 converter. With 220V fuse for increased safety. Suitable as a add-on design for any other KiCad project.
+# AeonLabs PCB Shields RFID NFC RC522
+ This is a pcb design for a AeonLabs PCB Shields RFID NFC RC522. Suitable as a add-on design for any other KiCad project.
 
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
