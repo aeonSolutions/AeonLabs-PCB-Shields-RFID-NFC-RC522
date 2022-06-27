@@ -1,14 +1,11 @@
-# AeonLabs-PCB-Shields-RFID-NFC-RC522
-AeonLabs-PCB-Shields-RFID-NFC-RC522
-
-# AeonLabs PCB Shields AC 85V-220V to DC 5.0V
- This is a pcb design for a AC220V 1A to DC 5V0 converter. With 220V fuse for increased safety. Suitable as a add-on design for any other KiCad project.
+# AeonLabs PCB Shields RFID NFC RC522
+This is a pcb design shield for RFID NFC RC522 reader writer. Suitable as a add-on design for any other KiCad project.
 
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
-![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0.svg)
-![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/total)
+![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-PCB-Shields-RFID-NFC-RC522.svg)
+![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-PCB-Shields-RFID-NFC-RC522/total)
 
 ## Revisions
 - revision 1.0
@@ -36,21 +33,15 @@ This PCB is a #direct fit #replacement of the one found on the internet at sale.
 
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
-![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/pcb_front.png)
-
+![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-RFID-NFC-RC522/blob/main/designs/pcb_front.png)
+![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-RFID-NFC-RC522/blob/main/designs/pcb_back.png)
 ________________________________________________________________________________________________________________
 
 ## PCB Parts list
 - [Capacitor 2.2uF SMD 1206](https://s.click.aliexpress.com/e/_AVdmzr)
 - [Resistor SMD 1206 330R x3 ](https://s.click.aliexpress.com/e/_A7OXrR)
-- [EE10-A1 switching power supply transformer 220V to 5-12V](https://s.click.aliexpress.com/e/_DDHkwsf)
-- [4.7uF 400V Electrolitic Capacitor](https://s.click.aliexpress.com/e/_DlkOyWT)
-- [390uF 6.3V Solid Electrolitic Capacitor](https://s.click.aliexpress.com/e/_DkZ4zmf)
-- [SS36 rectifier Diode](https://s.click.aliexpress.com/e/_DFlMjfv)
-- [MB10F 4 Diode Bridge Rectifier](https://s.click.aliexpress.com/e/_DcfTow3)
-- [HT2812H AC DC 5W charging](https://s.click.aliexpress.com/e/_Dk6dCGB)
-- [LED RGB x1]( https://s.click.aliexpress.com/e/_AccXHT)
-
+- [NXP MFRC 522 IC](https://s.click.aliexpress.com/e/_Dc7RQn5)
+- [27.12Mhz Crystal](https://s.click.aliexpress.com/e/_DFmHH83)
 
 
 ## Firmware Download 
@@ -70,7 +61,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________
 
 ### Share this PCB board files
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fjitpack.io%2F&ref_src=twsrc%5Etfw&text=Version%201.0%20of%20![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/pcb_back.png)%20is%20now%20available%20on%20&tw_p=tweetbutton&url=http%3A%2F%2Fgithub.com%2FaeonSolutions%2F![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/pcb_back.png))
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fjitpack.io%2F&ref_src=twsrc%5Etfw&text=Version%201.0%20of%20![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-RFID-NFC-RC522/blob/main/designs/pcb_back.png)%20is%20now%20available%20on%20&tw_p=tweetbutton&url=http%3A%2F%2Fgithub.com%2FaeonSolutions%2F![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-RFID-NFC-RC522/blob/main/designs/pcb_back.png))
 
 <a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
