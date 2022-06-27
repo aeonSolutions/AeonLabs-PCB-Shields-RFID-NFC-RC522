@@ -1,5 +1,5 @@
 # AeonLabs PCB Shields RFID NFC RC522
- This is a pcb design for a AeonLabs PCB Shields RFID NFC RC522. Suitable as a add-on design for any other KiCad project.
+This is a pcb design shield for RFID NFC RC522 reader writer. Suitable as a add-on design for any other KiCad project.
 
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
