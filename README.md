@@ -38,8 +38,8 @@ This PCB is a #direct fit #replacement of the one found on the internet at sale.
 ________________________________________________________________________________________________________________
 
 ## PCB Parts list
-- [Capacitor 2.2uF SMD 1206](https://s.click.aliexpress.com/e/_AVdmzr)
-- [Resistor SMD 1206 330R x3 ](https://s.click.aliexpress.com/e/_A7OXrR)
+- [Capacitor 2.2uF ](https://s.click.aliexpress.com/e/_AVdmzr)
+- [Resistor SMD ](https://s.click.aliexpress.com/e/_A7OXrR)
 - [NXP MFRC 522 IC](https://s.click.aliexpress.com/e/_Dc7RQn5)
 - [27.12Mhz Crystal](https://s.click.aliexpress.com/e/_DFmHH83)
 
